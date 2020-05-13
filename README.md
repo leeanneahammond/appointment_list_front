@@ -1,4 +1,9 @@
-# Technologies used:
+# Appointment List
+Allows user to add appointments/tasks, check off and delete. 
+
+
+
+### Technologies used:
 npx create-react-app appointment-app </br>
 npm install axios --save </br>
 npm install immutability-helper --save </br>
@@ -6,7 +11,7 @@ npm install --save redux react-redux redux-thunk </br>
 
 React and Redux used
 
-# Unsolved Problem:
+### Unsolved Problem:
 Unable to display calendar widget :(
 
 
