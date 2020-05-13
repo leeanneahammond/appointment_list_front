@@ -9,7 +9,8 @@ npm install axios --save </br>
 npm install immutability-helper --save </br>
 npm install --save redux react-redux redux-thunk </br>
 
-React and Redux used
+React and Redux used- front
+Rails and CORS -back
 
 ### Unsolved Problem:
 Unable to display calendar widget :(
